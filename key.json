@@ -1,1 +1,12 @@
-{}
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "6oGNx0KW2v326zN-K5YJgUK1FUT0Jl80aLQrxZotYi4oWwXG7pkimP7lgWSLa6C4SlXpjlvYPxJdOLuT-W4ZulZD_nUm0NGbOgYve0QAHwA6cDFKMUt5ZV8RoGebD7xfr8GQElfhrUYbhQ4uzTjQbWyQNF1FMb8gqpkNivmPAOewOsQueSO4pamqEM8bK0Eaj-gMmjrns1iKdG8tLTPhGKF01rFY-K_eYBA_Jg-F1GCExM4urcH0tyiSHqmSWUEKk8YqzM_LicPSTP5e_p9qgji9zqrhyt_dCCDbE_ReC7blrUGEFwPDFWsCbunlrE_YYnP-Ndkssu1PD6zSOc6veQ",
+      "e": "AQAB",
+      "kid": "Signom_Prod",
+      "alg": "RS256",
+      "use": "sig"
+    }
+  ]
+}
